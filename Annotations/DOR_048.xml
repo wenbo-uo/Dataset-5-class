@@ -1,0 +1,32 @@
+<annotation>
+	<folder>mcindoor</folder>
+	<filename>DOR_048.jpg</filename>
+	<source>
+		<database>Sata_data_extension</database>
+		<annotation>PascalVOC</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>Wenbo</name>
+	</owner>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551.9125683060109</xmin>
+			<ymin>70.49180327868852</ymin>
+			<xmax>695.0819672131147</xmax>
+			<ymax>360.655737704918</ymax>
+		</bndbox>
+	</object>
+</annotation>

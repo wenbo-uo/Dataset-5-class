@@ -1,0 +1,32 @@
+<annotation>
+	<folder>mcindoor</folder>
+	<filename>STR_033.jpg</filename>
+	<source>
+		<database>Sata_data_extension</database>
+		<annotation>PascalVOC</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>Wenbo</name>
+	</owner>
+	<size>
+		<width>3096</width>
+		<height>4128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object>
+		<name>stair</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0.0</xmin>
+			<ymin>139.63636363636363</ymin>
+			<xmax>3095.0</xmax>
+			<ymax>4127.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+	<folder>mcindoor</folder>
+	<filename>DOR_S2_17.jpg</filename>
+	<source>
+		<database>MCIndoor20000</database>
+		<annotation>PascalVOC</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>Wenbo</name>
+	</owner>
+	<size>
+		<width>2385</width>
+		<height>2904</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object>
+		<name>door</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>185</ymin>
+			<xmax>2251</xmax>
+			<ymax>2897</ymax>
+		</bndbox>
+	</object>
+</annotation>

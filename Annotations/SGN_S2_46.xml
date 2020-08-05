@@ -1,0 +1,32 @@
+<annotation>
+	<folder>mcindoor</folder>
+	<filename>SGN_S2_46.jpg</filename>
+	<source>
+		<database>MCIndoor20000</database>
+		<annotation>PascalVOC</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>Wenbo</name>
+	</owner>
+	<size>
+		<width>1969</width>
+		<height>1597</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>7</ymin>
+			<xmax>1750</xmax>
+			<ymax>1527</ymax>
+		</bndbox>
+	</object>
+</annotation>

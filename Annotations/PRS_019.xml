@@ -1,0 +1,32 @@
+<annotation>
+	<folder>mcindoor</folder>
+	<filename>PRS_019.jpg</filename>
+	<source>
+		<database>Sata_data_extension</database>
+		<annotation>PascalVOC</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>Wenbo</name>
+	</owner>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453.84615384615387</xmin>
+			<ymin>1.3574660633484164</ymin>
+			<xmax>661.9909502262443</xmax>
+			<ymax>394.11764705882354</ymax>
+		</bndbox>
+	</object>
+</annotation>

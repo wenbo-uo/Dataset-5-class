@@ -1,0 +1,32 @@
+<annotation>
+	<folder>mcindoor</folder>
+	<filename>MNT_022.jpg</filename>
+	<source>
+		<database>Sata_data_extension</database>
+		<annotation>PascalVOC</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>Wenbo</name>
+	</owner>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object>
+		<name>tvmonitor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609.5406360424029</xmin>
+			<ymin>252.29681978798587</ymin>
+			<xmax>655.3003533568905</xmax>
+			<ymax>287.9858657243816</ymax>
+		</bndbox>
+	</object>
+</annotation>

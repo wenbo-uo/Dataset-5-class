@@ -1,0 +1,6 @@
+_background_
+door
+sign
+stair
+person
+tvmonitor
